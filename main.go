@@ -19,7 +19,7 @@ func main() {
 			fmt.Println(err)
 			return
 		}
-		fmt.Println("Success")
+		fmt.Println("Success yeah")
 
 	})
 	port := os.Getenv("PORT")
